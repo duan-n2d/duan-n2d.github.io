@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Credit Card Fraud Detection"
+excerpt: "Credit card fraud detection is a crucial task in financial security. This project aims to identify fraudulent credit card transactions using various machine learning algorithms, including Logistic Regression, Isolation Forest, Random Forest, CatBoost, Deep Neural Networks (DNNs), XGBoost, and Long Short-Term Memory (LSTM) networks.
+<br/>
+<img src='/images/ModelCreditCardFraud.png'>"
 collection: portfolio
 ---
 
