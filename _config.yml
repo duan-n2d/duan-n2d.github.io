@@ -21,13 +21,13 @@ repository               : "duan-n2d/duan-n2d.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Duan Nguyen"
-  pronouns         : "he/him/his"  
+  pronouns         : # "he/him/his"  
   bio              : "I'm Duan Nguyen aka NDoubleD"
   location         : "HCMC, Vietnam"
   employer         : "UEL-HCMC VNU"
-  uri              : "https://duan-n2d.github.io"
+  uri              : # "https://duan-n2d.github.io"
   email            : "duannguyen2606@gmail.com" 
 
   # Academic websites
