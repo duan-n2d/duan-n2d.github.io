@@ -12,7 +12,7 @@ title                    : "NDoubleD"
 title_separator          : "-"
 name                     : &name "Duan Nguyen"
 description              : &description "I'm Duan Nguyen aka NDoubleD, a person pursuing a Data Analyst/Business Intelligence job. My major is Management Information System at UEL-HCMC VNU. I'm a data enthusiast, a tech lover, and a lifelong learner. I'm passionate about data, technology, and business. I'm always eager to learn new things and apply them to my work. I'm looking for a job that can help me develop my skills and knowledge in data analysis, business intelligence, and data visualization."
-url                      : https://duan-n2d.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://duan-n2d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duan-n2d/duan-n2d.github.io"
 
@@ -22,34 +22,34 @@ repository               : "duan-n2d/duan-n2d.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Duan Nguyen"
+  pronouns         : "he/him/his"  
+  bio              : "I'm Duan Nguyen aka NDoubleD"
+  location         : "HCMC, Vietnam"
+  employer         : "UEL-HCMC VNU"
+  uri              : "https://duan-n2d.github.io"
+  email            : "duannguyen2606@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # impactstory      : # URL
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "duan-n2d"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : "https://www.facebook.com/n2d.duan"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/duannguyen2606"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
