@@ -9,8 +9,12 @@ redirect_from:
 
 About Me
 ======
-
-I am passionate about transforming data into meaningful insights. With a strong foundation in coding and a keen interest in data analysis, my goal is to become a proficient Data Analyst and Business Intelligence specialist. I am driven by the power of data to tell stories, uncover trends, and support strategic decision-making.
+Hello! Welcome to my website.
+</br>
+My name is <p color='blue'>Duan Nguyen</p>, I'm living in Ho Chi Minh City - Vietnam. Currently, I am a 3rd year student at the University of Economics and Law - VNU HCMC, my major is <p color='blue'>Management Information System</p>.
+</br>
+</br>
+I am passionate about transforming data into meaningful insights. With a strong foundation in coding and a keen interest in data analysis, my goal is to become a proficient <p color='blue'>Data Analyst and Business Intelligence specialist</p>. I am driven by the power of data to tell stories, uncover trends, and support strategic decision-making.
 
 ### My Dream
 
