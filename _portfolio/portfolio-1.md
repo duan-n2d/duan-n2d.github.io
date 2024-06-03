@@ -5,5 +5,4 @@ excerpt: "Credit card fraud detection is a crucial task in financial security. T
 <img src='/images/ModelCreditCardFraud.png' width='500' height='300'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+For more details about this project, please visit the following **[repository](https://github.com/duan-n2d/Credit-card-fraud-detection/tree/main)** on github. If you find it interesting, please share it with many people. Don't forget to follow me to see more projects in the future. Thank you very much.

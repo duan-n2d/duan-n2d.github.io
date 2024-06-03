@@ -5,5 +5,4 @@ excerpt: "This research combines traditional marketing segmentation methods with
 <img src='/images/ModelCustomerSegment.png' width='500' height='1000'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For more details about this project, please visit the following **[repository](https://github.com/duan-n2d/Customer-Segmentation-with-RFM-and-KMeans)** on github. If you find it interesting, please share it with many people. Don't forget to follow me to see more projects in the future. Thank you very much.
