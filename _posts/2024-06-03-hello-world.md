@@ -29,6 +29,6 @@ In this blog, you can expect to find posts about:
 
 ## Let's Connect
 
-I am eager to connect with like-minded individuals who share a passion for data and technology. Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/duan-nguyen/) or follow my journey on [Twitter](https://twitter.com/duan_nguyen).
+I am eager to connect with like-minded individuals who share a passion for data and technology. Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/duan-nguyen/) or follow my journey on [Github](https://github.com/duan-n2d).
 
 Stay tuned for more posts, and thank you for joining me on this exciting journey!

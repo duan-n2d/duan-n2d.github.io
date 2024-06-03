@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to NDoubelD's website
 
-## About me
+## About Me
 
 Hello! Welcome to my website.  
 My name is **Duan Nguyen**, and I'm living in Ho Chi Minh City, Vietnam. Currently, I am a 3rd year student at the University of Economics and Law - VNU HCMC, majoring in **Management Information System**.
@@ -29,3 +29,7 @@ In my journey towards becoming a Data Analyst and Business Intelligence expert, 
 ---
 
 Feel free to connect with me as I continue to explore the fascinating world of data and analytics!
+
+---
+
+**Note:** My posts may be written in either Vietnamese or English.
